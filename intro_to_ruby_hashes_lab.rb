@@ -5,7 +5,7 @@ end
 def actor
 	actor = {name: "Dwayne The Rock Johnson"}
 end
-binding.pry
+
 def monopoly
 	monopoly = {railroads: {}}
 
